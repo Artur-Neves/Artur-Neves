@@ -4,7 +4,6 @@
 - 🔭 IEstou trabalhando como desenvolvedor back-end
 - 🌱 Estou estudando Javaee e seus Frameworks
 - 📫 Contate-me no email: nevesdev.ti@gmail.com
-- 😄 Pronouns: ele/dele
 
 
   <img height=200 width=400 align="center" wheight=100 src="https://github-readme-stats.vercel.app/api?username=Artur-Neves&show_icons=true&theme=transparent" />
