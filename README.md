@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo(a) ao meu Github 👋
 
 
-- 🔭 IEstou trabalhando como desenvolvedor back-end
-- 🌱 Estou estudando Javaee e seus Frameworks
+- 🔭 Estou trabalhando como desenvolvedor back-end.
+- 🌱 Estou estudando Javaee e seus Frameworks.
 - 📫 Contate-me no email: nevesdev.ti@gmail.com
 
 
