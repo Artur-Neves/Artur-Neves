@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006AFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006AFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Artur+Neves;I'm+18+years+old;I'mm+a+Java+back-end+developer;I+graduated+as+a+computer+technician;Be+Welcome!)](https://git.io/typing-svg)
+<div style="display: flex;" align="center">
+  <img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Artur-Neves&show_icons=true&theme=transparent" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  <img  height="200" width="385" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur-Neves&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
+</div>
 
-  <img height=200 width=400 align="center" wheight=100 src="https://github-readme-stats.vercel.app/api?username=Artur-Neves&show_icons=true&theme=transparent" />
-
-
-  <img height=200 width=385 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur-Neves&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
