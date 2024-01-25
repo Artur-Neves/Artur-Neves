@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006AFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Artur+Neves;I'm+18+years+old;I'mm+a+Java+back-end+developer;I+graduated+as+a+computer+technician;Be+Welcome!)](https://git.io/typing-svg)
 <div style="display: flex;" align="center">
   <img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Artur-Neves&show_icons=true&theme=transparent" />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img  height="200" width="385" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur-Neves&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
 </div>
 
