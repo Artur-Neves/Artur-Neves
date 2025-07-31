@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006AFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Artur+Neves;I'm+19+years+old;I'm+a+Java+back-end+developer;I+graduated+as+a+computer+technician;Be+Welcome!)](https://git.io/typing-svg)
 <div style="display: flex;" align="center">
   <img height="180" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=Artur-Neves&show_icons=true&theme=transparent" />
-
-  <img  height="179" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur-Neves&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=transparent" />
+&nbsp;&nbsp;
+  <img  height="177" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artur-Neves&layout=compact&langs_count=8&card_width=445&show_icons=true&theme=transparent" />
 </div>
 
 <br>
